@@ -6,12 +6,12 @@ public class StaticConcept {
     String name ;
     int studentID;
 
-    //   public StaticConcept(String schoolName, String name, String batch, int studentID){
+//       public StaticConcept(String schoolName, String name, String batch, int studentID){
 //       this.schoolName = schoolName;
 //       this.batch = batch;
 //       this.name = name;
 //       this.studentID = studentID;
-    //   }
+//       }
     public void behavior(){
         System.out.println("Sushmita is a talkative student");
         System.out.println("She studies in "+ schoolName + " and her batch is " + batch);
